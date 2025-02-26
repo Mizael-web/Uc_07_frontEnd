@@ -12,18 +12,25 @@
     
 
     background-color: aquamarine;
-    color:white;
+    color: burlywood;
     text-align: center;
     margin-top: auto;
-    border-radius: 10%;
+   
     }
 
 .header h1 { 
-color: white;
+
 text-align: center;
-border-radius: var(--borda-aredondamento);
+text-decoration: none;
+
+}
 
 
 
-
+a {
+    display: flex;  
+    color: blue; 
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
 }

@@ -9,10 +9,11 @@ function Home () {
         <Header/>
         
         <main>
-        Este é meu site
+        Este é meu Home
         </main>
 
         <Footer/>
+       
        </> 
     )
 }
